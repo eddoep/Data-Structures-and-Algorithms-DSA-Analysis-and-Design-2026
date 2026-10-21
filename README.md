@@ -1,2 +1,26 @@
 # Data-Structures-and-Algorithms-DSA-Analysis-and-Design-2026
 A core technical course focused on how to store, organize, and process data efficiently in software development.
+
+##CS 300: Data Structures and Algorithms
+#Project Two and Project Three Reflection
+1. What was the problem you were solving in the projects for this course?
+The problem I was solving involved developing a course advising application for the Computer Science department at ABC University (ABCU). The application needed to read course information from a CSV file, organize the information, display an alphanumeric list of courses, and allow academic advisors to search for individual courses and their prerequisites. In Project Two, I developed pseudocode to plan how the application would process and organize course information. In Project Three, I implemented the application in C++ using a binary search tree to store, retrieve, and display course information efficiently.
+
+2. How did you approach the problem? Consider why data structures are important to understand.
+I approached the problem by first reviewing the project requirements and evaluating different data structures, including vectors, hash tables, and binary search trees. I considered their advantages, disadvantages, and runtime efficiency when storing, searching, and displaying course information. I selected a binary search tree because it supports organized searching and allows course information to be displayed alphabetically through an in-order traversal. Understanding data structures is important because selecting an appropriate structure can improve program efficiency, organization, and overall performance. I used pseudocode to organize the program logic before implementing the C++ application.
+
+3. How did you approach the problem? Consider why data structures are important to understand.
+I approached the problem by first reviewing the project requirements and evaluating different data structures, including vectors, hash tables, and binary search trees. I considered their advantages, disadvantages, and runtime efficiency when storing, searching, and displaying course information. I selected a binary search tree because it supports organized searching and allows course information to be displayed alphabetically through an in-order traversal. Understanding data structures is important because selecting an appropriate structure can improve program efficiency, organization, and overall performance. I used pseudocode to organize the program logic before implementing the C++ application.
+
+4. How did you overcome any roadblocks you encountered while going through the activities or project?
+Some challenges I encountered involved reading the CSV input file, validating course information, managing prerequisites, and configuring the C++ development environment. I also experienced difficulties with file locations, program execution, and identifying errors during compilation and testing. I addressed these challenges by reviewing the program logic, checking file paths, troubleshooting error messages, and testing individual functions with the help of online resourses. Working through these problems strengthened my debugging skills and helped me understand the importance of systematic troubleshooting, proper file management, and continuous testing during software development.
+
+5. How has your work on this project expanded your approach to designing software and developing programs?
+These projects expanded my understanding of software design by teaching me to evaluate program requirements and select appropriate algorithms and data structures before beginning implementation. I learned that developing software involves more than writing code; it also requires planning, analyzing efficiency, validating input, and testing program functionality. Comparing vectors, hash tables, and binary search trees helped me recognize how different approaches affect program performance. This experience improved my ability to break complex problems into smaller tasks and develop more organized solutions.
+
+6. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+My work on these projects reinforced the importance of developing programs that are easy to understand, maintain, and modify. I learned to organize code into separate functions, use meaningful variable names, include appropriate comments, and implement input validation and error handling. Separating file processing, course storage, searching, and output operations makes the application easier to troubleshoot and update. I also gained a better understanding of how selecting suitable data structures supports future modifications and improvements. These practices will help me develop more reliable, readable, and adaptable C++ programs as I continue my computer science studies.
+
+#Conclusion
+Projects Two and Three strengthened my understanding of data structures, algorithms, and the software development process. Designing and implementing the ABCU Course Planner improved my skills in problem-solving, pseudocode development, C++ programming, debugging, and program organization. The experience also demonstrated how thoughtful planning and appropriate data structure selection contribute to efficient and maintainable software.
+
