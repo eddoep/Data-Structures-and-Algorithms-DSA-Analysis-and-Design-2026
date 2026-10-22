@@ -1,9 +1,9 @@
 # Data-Structures-and-Algorithms-DSA-Analysis-and-Design-2026
 A core technical course focused on how to store, organize, and process data efficiently in software development.
 
-##CS 300: Data Structures and Algorithms
-#Project Two and Project Three Reflection
-1. What was the problem you were solving in the projects for this course?
+# CS 300: Data Structures and Algorithms
+## Project Two and Project Three Reflection
+### 1. What was the problem you were solving in the projects for this course?
 The problem I was solving involved developing a course advising application for the Computer Science department at ABC University (ABCU). The application needed to read course information from a CSV file, organize the information, display an alphanumeric list of courses, and allow academic advisors to search for individual courses and their prerequisites. In Project Two, I developed pseudocode to plan how the application would process and organize course information. In Project Three, I implemented the application in C++ using a binary search tree to store, retrieve, and display course information efficiently.
 
 2. How did you approach the problem? Consider why data structures are important to understand.
