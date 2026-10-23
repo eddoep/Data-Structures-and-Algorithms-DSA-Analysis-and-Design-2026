@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-DSA-Analysis-and-Design-2026
-A core technical course focused on how to store, organize, and process data efficiently in software development.
+## A core technical course focused on how to store, organize, and process data efficiently in software development.
 
 # CS 300: Data Structures and Algorithms
 ## Project Two and Project Three Reflection
@@ -21,6 +21,6 @@ These projects expanded my understanding of software design by teaching me to ev
 ### 6. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 My work on these projects reinforced the importance of developing programs that are easy to understand, maintain, and modify. I learned to organize code into separate functions, use meaningful variable names, include appropriate comments, and implement input validation and error handling. Separating file processing, course storage, searching, and output operations makes the application easier to troubleshoot and update. I also gained a better understanding of how selecting suitable data structures supports future modifications and improvements. These practices will help me develop more reliable, readable, and adaptable C++ programs as I continue my computer science studies.
 
-#Conclusion
+## Conclusion
 Projects Two and Three strengthened my understanding of data structures, algorithms, and the software development process. Designing and implementing the ABCU Course Planner improved my skills in problem-solving, pseudocode development, C++ programming, debugging, and program organization. The experience also demonstrated how thoughtful planning and appropriate data structure selection contribute to efficient and maintainable software.
 
